@@ -4,4 +4,4 @@ Yes, it is! A new update added.
 
 The 3rd changes!
 
-This might cause conflict in develop branch
+This might cause conflict truly in develop branch
